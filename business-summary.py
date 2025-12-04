@@ -15,7 +15,7 @@ else:
     totalsales = 10000
 
     print("\n--- Business Summary (Default) ---")
-    print("Shop Name     :", shopname)
-    print("Owner Name    :", ownername)
-    print("GST (%)       :", GST)
-    print("Total Sales   :", totalsales)
+    print("Shop Name     :\n", shopname)
+    print("Owner Name    :\n", ownername)
+    print("GST (%)       :\n", GST)
+    print("Total Sales   :\n", totalsales)
